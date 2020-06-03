@@ -7,9 +7,10 @@ repositories {
 android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
-    useLibrary 'org.apache.http.legacy '
+    useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
+        applicationId "com.ikramatic.dronemonitor"
         minSdkVersion 16
         targetSdkVersion 28
         multiDexEnabled true

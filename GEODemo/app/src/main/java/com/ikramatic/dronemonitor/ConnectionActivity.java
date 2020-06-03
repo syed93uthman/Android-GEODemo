@@ -1,4 +1,4 @@
-package com.dji.geodemo;
+package com.ikramatic.dronemonitor;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -14,6 +14,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.ikramatic.dronemonitor.R;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 

@@ -1,4 +1,4 @@
-package com.dji.geodemo;
+package com.ikramatic.dronemonitor;
 
 import android.graphics.Color;
 
